@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pract1</string>
+    <string name="ncreate">onCreate</string>
+    <string name="nstart">onStart</string>
+    <string name="nresume">onResume</string>
+    <string name="npause">onPause</string>
+    <string name="nstop">onStop</string>
+    <string name="nrestart">onRestart</string>
+    <string name="ndestroy">onDestroy</string>
+</resources>
